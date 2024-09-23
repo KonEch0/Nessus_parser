@@ -5,3 +5,4 @@ This modifies the original Nessus parser from http://www.melcara.com/archives/25
 # Credits
 This script has been designed and maintained by Melcara, I do not maintain nor take credit for this tool.
 
+For more information and questions please contact Cody Dumont cody@melcara.com
